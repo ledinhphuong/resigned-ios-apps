@@ -1,0 +1,25 @@
+{
+  "name": "safari-launcher",
+  "version": "1.0.0",
+  "description": "How to resign SafariLauncher.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledinhphuong/safari-launcher.git"
+  },
+  "keywords": [
+    "resign",
+    "safari-launcher",
+    "SafariLauncher",
+    "xcodesign"
+  ],
+  "author": "Phuong Le <lephuong.info@gmail.com> (https://github.com/ledinhphuong)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ledinhphuong/safari-launcher/issues"
+  },
+  "homepage": "https://github.com/ledinhphuong/safari-launcher#readme"
+}
